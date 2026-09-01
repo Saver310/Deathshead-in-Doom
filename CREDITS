@@ -1,0 +1,21 @@
+M4 model taken from the Half-Life HD model pack by Gearbox
+
+DSMOFDIE
+	Taken from tgstation at https://github.com/tgstation/tgstation/commit/948ad3dd5b22803a01cd74c27f37e509dc61395b
+	https://github.com/tgstation/tgstation/blob/948ad3dd5b22803a01cd74c27f37e509dc61395b/sound/voice/moth/moth_death.ogg
+
+DSMOFOOF
+	Taken from SS14, Resources/Audio/Effects/bodyfall2.ogg, no source
+
+DSMOFSPL
+	Taken from SS14, Resources/Audio/Effects/Fluids/splat.ogg, no source
+
+DSMOFNWA, DSMOFJMP
+	Recorded by Brad Walker on iNaturalist.org, modified by Squamatic (Github) and honeyed-lemons (Github).
+	https://www.inaturalist.org/observations/64873292
+
+DSMOFSCR
+	Taken from https://github.com/tgstation/tgstation/commit/31c19654e0f641166ecd80c672ea05362fd19488
+	https://github.com/tgstation/tgstation/commits/master/sound/voice/moth/scream_moth.ogg
+
+Special thanks to Tofi for inspiration and support!
